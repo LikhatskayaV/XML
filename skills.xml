@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Course_topics>
+    <topic>1</topic>
+    <title>basic_theory</title>
+</Course_topics>
+<Course_topics>
+    <topic>2</topic>
+    <title>client_server_architecture</title>
+</Course_topics>
+<Course_topics>
+    <topic>3</topic>
+    <title>HTTP_methods</title>
+</Course_topics>
+<Course_topics>
+    <topic>4</topic>
+    <title>HTTP_responses</title>
+</Course_topics>
+<Course_topics>
+    <topic>5</topic>
+    <title>structures_of_HTTP_requests_and_responses</title>
+</Course_topics>
+<Course_topics>
+    <topic>6</topic>
+    <title>JSON_XML_structures</title>
+</Course_topics>
+<Course_topics>
+    <topic>7</topic>
+    <title>API_Postman</title>
+</Course_topics>
+<Course_topics>
+    <topic>8</topic>
+    <title>external_server_removing_reading_logs</title>
+</Course_topics>
+<Course_topics>
+    <topic>9</topic>
+    <title>snifing_http_web_traffic_Charles_Fiddler</title>
+</Course_topics>
+<Course_topics>
+    <topic>10</topic>
+    <title>DevTools</title>
+</Course_topics>
+<Course_topics>
+    <topic>11</topic>
+    <title>VPN</title>
+</Course_topics>
+<Course_topics>
+    <topic>12</topic>
+    <title>mobile_testing</title>
+</Course_topics>
+<Course_topics>
+    <topic>13</topic>
+    <title>IOS_Android_guiadlines</title>
+</Course_topics>
+<Course_topics>
+    <topic>14</topic>
+    <title>Building_IOS_app_XCode</title>
+</Course_topics>
+<Course_topics>
+    <topic>15</topic>
+    <title>building_Android_app_Android_studio</title>
+</Course_topics>
+<Course_topics>
+    <topic>16</topic>
+    <title>ADB</title>
+</Course_topics>
+<Course_topics>
+    <topic>17</topic>
+    <title>proxy_vpn_IOS_Android</title>
+</Course_topics>
+<Course_topics>
+    <topic>18</topic>
+    <title>sniffing_mobile_trafic_Charles_Fiddler_IOS_Android</title>
+</Course_topics>
+<Course_topics>
+    <topic>19</topic>
+    <title>Terminal_Linux</title>
+</Course_topics>
+<Course_topics>
+    <topic>20</topic>
+    <title>basics_of_bash_scripting</title>
+</Course_topics>
+<Course_topics>
+    <topic>21</topic>
+    <title>Access_to_remote_servers</title>
+</Course_topics>
+<Course_topics>
+    <topic>22</topic>
+    <title>SQL_basics</title>
+</Course_topics>
+<Course_topics>
+    <topic>23</topic>
+    <title>Postgres_database</title>
+</Course_topics>
+<Course_topics>
+    <topic>24</topic>
+    <title>Nonrelational_database_Redis</title>
+</Course_topics>
+<Course_topics>
+    <topic>25</topic>
+    <title>Jmetr</title>
+</Course_topics>
+<Course_topics>
+    <topic>26</topic>
+    <title>Scrum_methodology</title>
+</Course_topics>
+<Course_topics>
+    <topic>27</topic>
+    <title>Python_basics</title>
+</Course_topics>
+
+
